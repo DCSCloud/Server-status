@@ -1,7 +1,9 @@
 ## Server Status
 
 🟢 = Server attivi [online]
+
 🔴 = Server spenti [offline]
+
 🟡 = Server in manutenzione [inattivi]
 
 
